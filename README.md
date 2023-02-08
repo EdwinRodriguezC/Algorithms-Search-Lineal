@@ -16,8 +16,7 @@ que aún no lo encuentre repite el proceso de comparar con los siguientes elemen
 arreglo podemos hacer que se detenga cuando lo encuentre o que continúe comparando los demás elementos por si queremos saber si se repite, pero 
 con la advertencia de que la ejecución tardaría más tiempo en terminar hasta llegar al final.
 
-EL ALGORITMO COMPARARÍA LOS ELEMENTOS DEL ARREGLO [2,6,7,4,3] de la siguiente manera:
-
+<p align="center"> EL ALGORITMO COMPARARÍA LOS ELEMENTOS DEL ARREGLO [2,6,7,4,3] de la siguiente manera: </p> 
 [2,6,7,4,3]
 ¿2==4?
 No
