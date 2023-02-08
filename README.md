@@ -17,16 +17,17 @@ arreglo podemos hacer que se detenga cuando lo encuentre o que continúe compara
 con la advertencia de que la ejecución tardaría más tiempo en terminar hasta llegar al final.
 
 <p align="center"> EL ALGORITMO COMPARARÍA LOS ELEMENTOS DEL ARREGLO [2,6,7,4,3] de la siguiente manera: </p> 
-[2,6,7,4,3]
-¿2==4?
-No
-[2,6,7,4,3]
-¿6==4?
-No
-[2,6,7,4,3]
-¿7==4?
-No
-[2,6,7,4,3]
-¿4==4?
-Si⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-"Elemento encontrado!"
+
+<p aling="center"> [2,6,7,4,3] </p>
+<p aling="center"> ¿2==4? </p>
+<p aling="center"> No </p>
+<p aling="center"> [2,6,7,4,3] </p>
+<p aling="center"> ¿6==4? </p>
+<p aling="center"> No </p>
+<p aling="center"> [2,6,7,4,3] </p>
+<p aling="center"> ¿7==4? </p>
+<p aling="center"> No </p>
+<p aling="center"> [2,6,7,4,3] </p>
+<p aling="center"> ¿4==4? </p>
+<p aling="center"> Si </p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<p aling="center"> "Elemento encontrado!" </p>
